@@ -1,0 +1,25 @@
+{
+  "name": "ts-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UaQuetzalcoatl/ts-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UaQuetzalcoatl/ts-challenge/issues"
+  },
+  "homepage": "https://github.com/UaQuetzalcoatl/ts-challenge#readme"
+}
